@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73414436008",
+    "project_id": "payflow-wandall",
+    "storage_bucket": "payflow-wandall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73414436008:android:a163825d2517eebde48e9d",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73414436008-op3amil0107e2u142o1undi9plkbt2bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "8798625b15d0c44c32e22b377bcbc66f3951025d"
+          }
+        },
+        {
+          "client_id": "73414436008-4jh74nsq4fgh2dclo9dsvogbr1j6qdnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6aAJIkMhPL1E6-ViE6b9UznCF3c-hYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73414436008-4jh74nsq4fgh2dclo9dsvogbr1j6qdnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
